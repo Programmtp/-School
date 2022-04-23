@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Amatic+SC:wght@700&family=Bebas+Neue&family=Fredoka+One&family=Secular+One&display=swap');
+
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.sign-in {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    text-align: center;
+    background-color: pink;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+}
+
+
+
+input {
+    display: block;
+    border-radius: 5px;
+    width: 193px;
+    height: 18px;
+}
+
+button {
+    width: 100%;
+    border-radius: 7px;
+    background-color: brown;
+}
+
+body {
+    background-color: black;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.menu {
+    width: 100%;
+    background-color: pink;
+    padding: 10px;
+}
+
+.menuItem {
+    padding: 10px;
+    color: purple;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.menuItem:hover {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+}
+
+.picture {
+    width: 100%;
+    text-align: center;
+}
+
+.image-center {
+    display: block;
+    margin: auto;
+    width: 960px;
+    height: 540px;
+}
+
+.picture2 {
+    width: 256px;
+    height: 256px;
+    text-align: left;
+}
+
+.image-center2 {
+    display: block;
+    margin: auto;
+    width: 256px;
+    height: 256px;
+}
+
+.h11 {
+    text-align: left;
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+.h12 {
+    text-align: left;
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+.header {
+    width: 400px;
+    margin: 10px auto;
+    text-align: center;
+    color: #581344;
+    font-family: 'Amatic SC', cursive;
+    color: black;
+    background-color: white;
+}
+
+.h15 {
+    text-align: left;
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+.h16 {
+    text-align: left;
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+.h17 {
+    text-align: left;
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+.h222 {
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.link1 {
+    color: black;
+    text-decoration: none;
+}
+
+.button1 {
+    width: 200px;
+    border: 1px solid black;
+    background-color: purple;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.button1:hover {
+    background-color: plum;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
